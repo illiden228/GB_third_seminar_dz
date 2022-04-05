@@ -32,3 +32,4 @@ git config --global user.email "Ваша почта@example.com"***
 * _git push_ – отправляет локальную версию репозитория на внешний
 
 
+![image](image.png)
