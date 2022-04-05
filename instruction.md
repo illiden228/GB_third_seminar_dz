@@ -16,7 +16,6 @@ git config --global user.email "Ваша почта@example.com"***
 
 Более подробную информацию можно получить на сайте https://git-scm.com/
 
-![image](git_p.png)
 
 ## Основные команды Git (работа с ветками)
 
