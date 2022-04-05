@@ -29,6 +29,15 @@ git config --global user.email **ваша почта@example.com**
 * **git pull** - получение изменений и слияние с локальной версией
 * **git push** - отправляет локальную версию репозитория на внешний
 
+## **Как сделать pull request**
+
+* Делаем **fork** репозитория
+* Делаем **clone** своей версии репозитория
+* Создаем новую ветку и в нее вносим свои изменения
+* Фиксируем изменения (делаем коммиты)
+* Отправляем свою версию в свой GitHub
+* На сайте GitHub нажимаем кнопку pull request
+
 ## **Синтаксис языка Markdown**
 Справочник по Markdown от Microsoft:  
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
