@@ -1,0 +1,13 @@
+test 1 GB
+
+test 2
+
+tect 3 branch_2
+
+test conflict master-branch_3
+
+test 4 branch_3
+
+это правельный test 5 branch_3.1
+
+test branch_3.2
