@@ -1,0 +1,18 @@
+test 1
+test 2
+test 3
+
+# Загаловок 1
+
+
+
+New line 2 test 
+
+test 3 branch master
+
+test for merge with branch master
+
+END
+
+Все еще не работает функция (git diff)
+
