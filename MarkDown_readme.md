@@ -49,3 +49,5 @@ ___
 * **git branch -a** - просмотр удаленных веток репозитория.
 * **git commit --amend -m "Updated message for the previous commit"** - редактирование сообщения предыдущего коммита.
 * **git log --graph --oneline --decorate** - флаги --oneline и --decorate упрощают понимание того, к какой ветке относится каждый коммит.
+* **git push -u origin new_branch** - передача новой ветки в удаленный репозиторий
+* **git pull --verbose** - просмотр подробных сведений о загружаемых файлах
